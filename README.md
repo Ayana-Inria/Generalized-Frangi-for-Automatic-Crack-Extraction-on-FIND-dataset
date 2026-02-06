@@ -23,7 +23,7 @@ We propose a "universal", **training-free approach** that robustly extracts crac
 
 The easiest way to reproduce our results is to use the provided Jupyter Notebook: `FIND_Frangi_Fusion_Avignon_Colab.ipynb`.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ludwig-H/Generalized-Frangi-for-Automatic-Crack-Extraction-on-FIND-dataset/blob/main/FIND_Frangi_Fusion_Avignon_Colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ayana-Inria/Generalized-Frangi-for-Automatic-Crack-Extraction-on-FIND-dataset/blob/main/FIND_Frangi_Fusion_Avignon_Colab.ipynb)
 
 ### Google Drive Setup (Important!)
 
